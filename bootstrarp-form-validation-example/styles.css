@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: #eee;
+  height: 100vh;
+  justify-content: center;
+}
+
+form {
+  margin-right: 20%;
+  margin-left: 20%;
+}
