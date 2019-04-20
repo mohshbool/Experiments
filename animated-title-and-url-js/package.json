@@ -1,0 +1,20 @@
+{
+  "name": "animated-title-and-url",
+  "version": "1.0.0",
+  "description": "Title and URL responsive to audio",
+  "author": "Mohammad Shbool",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [
+    "webaudio",
+    "javascript"
+  ],
+  "homepage": "https://github.com/mohshbool/Experiments/blob/master/animated-title-and-url-js/README.md",
+  "license": "MIT"
+}

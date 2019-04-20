@@ -1,2 +1,10 @@
 # OS X
 **.DS_Store
+
+# Packages
+**node_modules
+***.lock
+
+# Parcel
+**.cache
+**dist
